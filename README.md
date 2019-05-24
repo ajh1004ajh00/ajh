@@ -1,0 +1,2 @@
+# ajh
+c programing project
